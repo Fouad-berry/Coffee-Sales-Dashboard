@@ -1,51 +1,65 @@
-# ☕ Coffee Sales Dashboard (Power BI)
+# ☕ Tableau de bord des ventes du Coffee Shop (Power BI)
 
-This project presents an interactive **Power BI dashboard** built from a coffee shop sales dataset.
+Ce projet présente un **tableau de bord interactif Power BI** construit à partir d’un jeu de données de ventes d’un coffee shop.
 
-The dashboard provides insights into sales performance, product popularity, and transaction trends.
+Le dashboard permet d’analyser **les performances des ventes, les produits les plus populaires et les tendances mensuelles** afin de mieux comprendre l’activité du café.
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Aperçu du dashboard
 
 ![Dashboard](images/dashboard_preview.png)
 
 ---
 
-## 📁 Dataset
+## 📁 Jeu de données
 
-The dataset contains **9,741 cafe transactions**, including:
+Le jeu de données contient **9 741 transactions**, incluant :
 
-* Transaction ID
-* Product purchased
-* Quantity
-* Price per unit
-* Total spent
-* Transaction date
+- ID de transaction
+- Produit acheté
+- Quantité
+- Prix unitaire
+- Montant total dépensé
+- Date de transaction
 
----
-
-## 📈 Key Insights
-
-The dashboard answers the following business questions:
-
-* Which products generate the most revenue?
-* What are the monthly sales trends?
-* What is the average order value?
-* How many items are sold per transaction?
+Ces données permettent d’effectuer des analyses sur les **tendances de vente et les performances des produits**.
 
 ---
 
-## 🛠 Tools Used
+## 📈 Insights principaux
 
-* Power BI
-* DAX
-* Data Cleaning
-* Data Visualization
+Le tableau de bord met en évidence plusieurs informations importantes :
+
+### 📅 Évolution des ventes
+- Le mois de **février présente le pic de ventes**.
+- Les ventes restent **globalement stables sur le reste de l’année**, avec de légères variations.
+
+### 🥪 Produits les plus vendus
+Les produits générant le plus de revenus sont :
+
+1. **Sandwich**
+2. **Juice**
+3. **Smoothie**
+
+Ces produits représentent une part importante du chiffre d’affaires.
+
+### 🍩 Répartition des ventes
+- Les **boissons et snacks rapides** dominent les ventes.
+- Les produits comme **tea et cookie** génèrent moins de revenus.
 
 ---
 
-## 📂 Project Structure
+## 🛠 Outils utilisés
+
+- Power BI  
+- DAX  
+- Nettoyage des données  
+- Data Visualization  
+
+---
+
+## 📂 Structure du projet
 
 ```
 coffee-sales-dashboard/
@@ -64,14 +78,14 @@ coffee-sales-dashboard/
 
 ---
 
-## 🚀 How to Use
+## 🚀 Utilisation
 
-1. Download the dataset
-2. Open the `.pbix` file in **Power BI Desktop**
-3. Refresh the dataset if necessary
+1. Télécharger le dataset  
+2. Ouvrir le fichier `.pbix` dans **Power BI Desktop**  
+3. Actualiser les données si nécessaire  
 
 ---
 
-## 📌 Author
+## 📌 Auteur
 
-Fouad MOUTAIROU
+**Fouad MOUTAIROU**
