@@ -51,10 +51,10 @@ The dashboard answers the following business questions:
 coffee-sales-dashboard/
 │
 ├── data/
-│   └── Cafe_Sales_Dataset.csv
+│   └── Coffee_Sales_Dataset.csv
 │
 ├── dashboard/
-│   └── Coffee_Sales_Dashboard.pbix
+│   └── Coffee_Sales_Analysis.pbix
 │
 ├── images/
 │   └── dashboard_preview.png
