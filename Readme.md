@@ -89,3 +89,17 @@ coffee-sales-dashboard/
 ## 📌 Auteur
 
 **Fouad MOUTAIROU**
+
+---
+
+## 🔗 Liens utiles
+
+- [Documentation officielle Power BI](https://learn.microsoft.com/fr-fr/power-bi/)
+- [Télécharger Power BI Desktop](https://powerbi.microsoft.com/fr-fr/desktop/)
+- [Guide de prise en main Power BI](https://learn.microsoft.com/fr-fr/power-bi/fundamentals/desktop-getting-started)
+
+---
+
+## 📝 Licence
+
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d’informations.
